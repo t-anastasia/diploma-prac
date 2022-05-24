@@ -16,8 +16,8 @@
 
 
 ## Документы
-<p><a href="https://github.com/t-anastasia/diploma-prac/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83.docx">Задание на парктику DOCX</a></p>
+<p><a href="https://github.com/t-anastasia/diploma-prac/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83.docx">Задание на практику DOCX</a></p>
 <p><a href="https://github.com/t-anastasia/diploma-prac/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82_%D0%BF%D0%BE_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.docx">Отчёт по практике DOCX</a></p>
 
-<p><a href="https://github.com/t-anastasia/diploma-prac/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83.pdf">Задание на парктику PDF</a></p>
+<p><a href="https://github.com/t-anastasia/diploma-prac/blob/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83.pdf">Задание на практику PDF</a></p>
 <p><a href="https://github.com/t-anastasia/diploma-prac/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82_%D0%BF%D0%BE_%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.pdf">Отчёт по практике PDF</a></p>
